@@ -5,3 +5,5 @@
 ![Alt text](https://github.com/adellaaishwara/PBOGUI/blob/master/GUILat2.PNG)
 # -Latihan 4-
 ![Alt text](https://github.com/adellaaishwara/PBOGUI/blob/master/GUILat4.PNG)
+# -UJI KEBOLEHAN-
+![Alt text](https://github.com/adellaaishwara/PBOGUI/blob/master/UjiKebolehan.PNG)
